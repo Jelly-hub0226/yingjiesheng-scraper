@@ -1,0 +1,3 @@
+display_name: "应届生CDP岗位筛选"
+short_description: "通过Edge远程调试(CDP)批量搜索和筛选应届生求职网岗位，支持翻页提取和JSON/CSV导出"
+default_prompt: "在应届生求职网上搜索和筛选岗位"
